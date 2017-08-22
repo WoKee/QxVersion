@@ -1,3 +1,4 @@
 enable = true
 versionCode = 12
+help_url = https://shimo.im/doc/1GB0F4a2bggz2bhM/¡¸QVideo_help¡¹
 
