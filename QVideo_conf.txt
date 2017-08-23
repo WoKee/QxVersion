@@ -1,4 +1,4 @@
 enable = true
-versionCode = 13
-help_url = https://shimo.im/doc/1GB0F4a2bggz2bhM/¡¸QVideo_help¡¹
+versionCode = 14
+help_url = https://shimo.im/doc/d5whLJB5tw8aJfGh/¡¸QVideo_help¡¹
 
