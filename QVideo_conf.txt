@@ -1,6 +1,7 @@
 enable = true
 versionCode = 14
 help_url = https://shimo.im/doc/d5whLJB5tw8aJfGh/¡¸QVideo_help¡¹
+url_one = zO5C1zZ32saJYphqFJ+QPHJ2Yj+qeSNc3aSVUvnPApaX+PZL3Z0BaQPaUBc/jyPDpc7mQvzIuZrHZLG/aVSrGwbKLYKzbn08o3ctUVMl0wHQ+yKxwrpmxxhcCl1o676+rh0kZhrPpXBu1LZDwadu+63srJyhFrfumSArh3maJ8IY=
 QQ_GROUP_NO = 641917159
 QQ_GROUP_KEY = cUGI2ZCrKCY9g2oqKTnkPfMKShmYzWz3
 QQ_GROUP_LINK = https://jq.qq.com/?_wv=1027&k=4AoKxZ6
