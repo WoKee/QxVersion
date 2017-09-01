@@ -1,4 +1,4 @@
-enable = true
+enable = false
 versionCode = 14
 help_url = https://shimo.im/doc/d5whLJB5tw8aJfGh?r=E1J12Z/°∏ π”√∞Ô÷˙°π
 url_one = zO5C1zZ32saJYphqFJ+QPHJ2Yj+qeSNc3aSVUvnPApaX+PZL3Z0BaQPaUBc/jyPDpc7mQvzIuZrHZLG/aVSrGwbKLYKzbn08o3ctUVMl0wHQ+yKxwrpmxxhcCl1o676+rh0kZhrPpXBu1LZDwadu+63srJyhFrfumSArh3maJ8IY=
